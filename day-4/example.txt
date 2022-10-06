@@ -1,0 +1,7 @@
+1 - bit
+1byte - 8bit
+1KB  - 1024byte
+1mb - 1024KB
+1gb - 1024mb
+
+

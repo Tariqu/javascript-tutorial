@@ -1,0 +1,11 @@
+var add = document.getElementById('add');
+
+add.addEventListener('click', () => {
+  var val1 = document.getElementById('firstNumber').value;
+  var val2 = document.getElementById('secondNumber').value;
+  var result = document.getElementById('result');
+  result.innerText = val1 + val2;
+});
+
+
+=============================================
